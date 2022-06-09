@@ -2,7 +2,7 @@
 ## 👀 Technologies I use
 HTML5, CSS3, JavaScript, jQuery, Node.JS, Express, Electron, GIT 
 ## 🌱 I’m currently learning
-Angular
+TypeScript, Angular
 # 📫 How to reach me
 adamskorupski@hotmail.com
 
