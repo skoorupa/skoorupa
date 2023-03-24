@@ -7,6 +7,7 @@ HTML5, CSS3, JavaScript, Node.JS, Express, Electron, GIT
 TypeScript, React
 # 📫 How to reach me
 adamskorupski@hotmail.com
+
 https://www.linkedin.com/in/skorupskiadam/
 <!---
 skoorupa/skoorupa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
