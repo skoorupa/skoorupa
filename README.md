@@ -4,7 +4,7 @@ On my profile you can see some finished (or almost finished) JS projects.
 ## 👀 Technologies I use
 HTML5, CSS3, JavaScript, Node.JS, Express, Electron, GIT 
 ## 🌱 I’m currently learning
-TypeScript, React
+TypeScript, React, Java
 # 📫 How to reach me
 adamskorupski@hotmail.com
 
