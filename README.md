@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Adam
-I'm a self-thaught newbie fullstack developer. I am studying Computer Science at PJAIT in Warsaw.
-On my profile you can see some finished (or almost finished) JS projects.
+I'm a self-thaught newbie fullstack developer studying Computer Science at PJAIT in Warsaw.
+On my profile you can see some finished (or almost finished) projects.
 ## 👀 Technologies I use
 HTML5, CSS3, JavaScript, Node.JS, Express, Electron, GIT 
 ## 🌱 I’m currently learning
