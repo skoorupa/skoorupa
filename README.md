@@ -3,9 +3,9 @@ I'm a self-thaught newbie fullstack developer studying Computer Science at PJAIT
 
 On my profile you can see some finished (or almost finished) projects.
 ## 👀 Technologies I use
-HTML5, CSS3, JavaScript, Node.JS, Express, Electron, GIT 
+Java, HTML5, CSS3, JavaScript, Node.JS, Express, Electron, GIT 
 ## 🌱 I’m currently learning
-TypeScript, React, Java
+TypeScript, React,
 # 📫 How to reach me
 adamskorupski@hotmail.com
 
