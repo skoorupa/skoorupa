@@ -1,11 +1,11 @@
 # 👋 Hi, I’m Adam
-I'm a self-thaught newbie fullstack developer studying Computer Science at PJAIT in Warsaw.
+I'm a future Computer Science engineer, currently studying at PJAIT in Warsaw. Currently I work as a tester/QA in finances.
 
-On my profile you can see some finished (or almost finished) projects.
-## 👀 Technologies I use
-Java, HTML5, CSS3, JavaScript, Node.JS, Express, Electron, GIT 
+On my profile you can see some my finished (or almost finished) projects.
+## 👀 Technologies I know
+Java, HTML5, CSS3, JavaScript, Node.JS, Express, Electron, GIT, C++, REST API
 ## 🌱 I’m currently learning
-C++, TypeScript, React,
+TypeScript
 # 📫 How to reach me
 adamskorupski@hotmail.com
 
